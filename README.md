@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Cyryl
+## 👋 Hi, I’m Cyryl
 
 👨‍💻 About me: Passionate coder, keen to start a career as a software developer\
 ☀️Experience: Bachelors degree in civil engineering - 2.1\
