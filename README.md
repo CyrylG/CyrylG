@@ -1,10 +1,7 @@
 ## 👋 Hi, I’m Cyryl
 
 #### 👨‍💻 About me:
-Passionate coder, keen to start a career as a software developer\
-#### ☀️Experience:
-Bachelors degree in civil engineering - 2.1\
-3 years experience as a tutor
+A bilingual junior software developer with a passion for coding and problem solving. 2.1 Bachelors degree in Civil Engineering and 3 years experience tutoring GCSE and A-Level maths. Recent graduate from Makers Academy bootcamp, acquiring substantial coding knowledge in Ruby and JavaScript and essential coding practices such as Agile methodologies and Test-Driven Development.
 #### 🌱Currenly learning:
 I am currently expanding my knowledge of JavaScript
 
