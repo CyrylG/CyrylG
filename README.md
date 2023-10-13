@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Cyryl
 
-#### 👨‍💻 About me:\
+#### 👨‍💻 About me:
 Passionate coder, keen to start a career as a software developer\
-#### ☀️Experience:\
+#### ☀️Experience:
 Bachelors degree in civil engineering - 2.1\
-3 years experience as a tutor\
-#### 🌱Currenly learning:\
+3 years experience as a tutor
+#### 🌱Currenly learning:
 I am currently expanding my knowledge of JavaScript
 
 ### Check me out here:
